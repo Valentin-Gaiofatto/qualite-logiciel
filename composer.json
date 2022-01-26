@@ -1,0 +1,19 @@
+{
+    "name": "vendor/fizzbuzz",
+    "type": "fizzbuzz",
+    "require": {
+        "ext-mbstring": "*",
+        "phpunit/phpunit": "^9.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "" : "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Stagiaire2 Dynoco",
+            "email": "stagiaire2@dynoco.fr"
+        }
+    ]
+}
