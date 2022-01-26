@@ -1,5 +1,6 @@
 <?php
 
+
 class FizzBuzz
 {
     static function execute($int){
